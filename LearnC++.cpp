@@ -4,6 +4,7 @@
 using namespace std;
 int main()
 {
+  cout<<"this is fun!";
   cout<<"For learning git";
   return 0;
 }

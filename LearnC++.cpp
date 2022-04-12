@@ -6,5 +6,5 @@ int main()
 {
   cout<<"this is fun! - resolve this conflict";
   cout<<"For learning git - main conflict";
-  return 3;
+  return 22;
 }
